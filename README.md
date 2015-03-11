@@ -87,7 +87,7 @@ func main() {
 ## Noted
 I wouldn't use for anything serious or important.
 
-## Contributing to GoBitstamp:
+## Contributing to GoBlockr:
 
 If you find any improvement or issue you want to fix, feel free to send me a pull request with testing.
 
